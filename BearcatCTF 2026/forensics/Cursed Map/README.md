@@ -1,0 +1,7 @@
+# Cursed Map (198 pts)
+
+**Category:** forensics
+
+## Description
+Legend has it that there exists a map that leads to the greatest treasure of all, only the map is cursed so that anyone who opens it dies...
+

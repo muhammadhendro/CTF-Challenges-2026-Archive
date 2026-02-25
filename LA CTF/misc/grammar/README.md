@@ -1,0 +1,9 @@
+# grammar (103 pts)
+
+**Category:** misc
+
+**Author:** k
+
+## Description
+Inspired by CS 131 Programming Languages, I decided to make a context-free grammar in EBNF for my flag! But it looks like some squirrels have eaten away at the parse tree...
+

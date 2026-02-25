@@ -1,0 +1,14 @@
+# Treasure Hunt 2 - Bottle is the Message? (50 pts)
+
+**Category:** osint
+
+## Description
+We decrypted the rest of the message with the variation you used and translated it from French:
+
+*Like my idol Olivier Levasseur, La Buse, I have hidden my treasure and left behind clues as to its location. Your next hint is in the town that this bottle was manufactured.*
+
+This guy seems like a bit of a nutjob, but I'll gladly take his treasure! Can you help us find where this bottle was made? We got a little... excited when opening it, but I'm sure these small bumps at the bottom will be enough! They were hard to see in a photo, so we transcribed them on a piece of paper.
+
+Enter your flag in the form: `BCCTF{Location}`
+
+

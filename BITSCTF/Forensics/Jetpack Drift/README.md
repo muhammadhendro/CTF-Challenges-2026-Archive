@@ -1,0 +1,7 @@
+# Jetpack Drift (50 pts)
+
+**Category:** Forensics
+
+## Description
+The download failed, but the investigation didn't. Before vanishing, a researcher captured the raw exchange between a broken server and a nosy client. Sift through the packets to recover what was lost.
+

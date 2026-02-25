@@ -1,0 +1,11 @@
+# 諧音是 Duck 不必 (431 pts)
+
+**Category:** Crypto
+
+## Description
+要放棄諧音梗已經 Taiwan 了...
+
+這裡有一篇被古典密碼層層套路的文章，祝好運
+
+> Author: 軒伯
+

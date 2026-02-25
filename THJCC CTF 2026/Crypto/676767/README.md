@@ -1,0 +1,13 @@
+# 676767 (100 pts)
+
+**Category:** Crypto
+
+## Description
+`676767` `67` `6767`  
+# 67 EVERYWHERE 0A0  
+Just bring me out of this 67 haven ...   
+> Author: whale120
+
+## Connection Info
+`nc chal.thjcc.org 48764`
+
