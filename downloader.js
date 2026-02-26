@@ -11,10 +11,19 @@ const CTF_URL = args[0] || 'https://lappungctf.dev';
 // Pilih salah satu metode autentikasi: 'token' atau 'session' atau 'userpass'
 let AUTH_MODE = 'token'; 
 
+function safeDecode(str) {
+    if (!str) return '';
+    try {
+        return decodeURIComponent(str);
+    } catch (e) {
+        return str;
+    }
+}
+
 // Input default
-let CTFD_TOKEN = args[1] || '';
-let CTFD_USER = args[1] || '';
-let CTFD_PASS = args[2] || '';
+let CTFD_TOKEN = safeDecode(args[1]);
+let CTFD_USER = safeDecode(args[1]);
+let CTFD_PASS = safeDecode(args[2]);
 
 if (args.length === 3) {
     AUTH_MODE = 'userpass';
